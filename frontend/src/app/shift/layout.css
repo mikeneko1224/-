@@ -1,0 +1,61 @@
+.name{
+    text-align: right;
+    margin-right: 10px;
+}
+
+.shift{
+    margin: 10px 30px;
+    padding: 20px;
+    background-image: url("../../../public/image/pan48.png");
+}
+
+.title{
+    text-align: center;
+    font-size: 30px;
+    text-decoration:underline double;
+}
+
+.toumei{
+    background-color: rgba(255, 255, 255, 0.562);
+  }
+
+.is-disabled {
+    color: rgb(192, 189, 189);
+}
+
+.day {
+    font-size: 15px;
+}
+
+  .date {
+    text-align: center;
+  }
+
+  .title{
+    padding-top: 20px;
+  }
+
+  td{
+    padding: 5px;
+  }
+
+  .submit {
+    box-shadow: 0 5px #deb887;
+    border-radius: 100px;
+    display: block;
+    width: 200px;
+    padding: 15px;
+    box-sizing: border-box;
+    background: #f5deb3;
+    text-decoration: none;
+    display: block;
+    margin: 20px auto;
+    
+}
+
+
+
+  table {
+    margin-top: 30px;
+  }
+

@@ -1,0 +1,24 @@
+.name{
+    text-align: right;
+    margin-right: 10px;
+}
+
+.shift{
+    margin: 10px 30px;
+    padding: 20px;
+    background-image: url("../../../public/image/pan48.png");
+}
+
+.toumei{
+    background-color: rgba(255, 255, 255, 0.562);
+}
+
+.title{
+    text-align: center;
+    font-size: 30px;
+    text-decoration:underline double;
+}
+
+.sumtable {
+    margin-bottom: 40px;
+}
