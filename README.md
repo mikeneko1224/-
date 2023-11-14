@@ -53,9 +53,9 @@
 
 
 # 開発環境
-　・windows 10 Home
-　・laravel 10.30.1
-  ・next.js 14.0.2
+　・windows 10 Home  
+　・laravel 10.30.1  
+  ・next.js 14.0.2  
 
 # データベース
 　xammp　8.2.4
