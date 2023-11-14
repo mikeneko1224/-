@@ -98,7 +98,11 @@
 
 # 画面表示のファイル
 ●frontend/src/app/detail => 従業員の打刻画面
+
 ●frontend/src/app/orner => オーナーの打刻画面
+
 ●frontend/src/app/ornershift => オーナーのシフト編集
+
 ●frontend/src/app/score => 従業員の勤怠状況(何もしていない)
+
 ●frontend/src/app/shift => 従業員のシフト提出
